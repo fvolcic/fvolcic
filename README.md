@@ -34,3 +34,5 @@
 
 - [RoboEdu: Unlocking the Magic of Robots for Everyone](https://deepblue.lib.umich.edu/handle/2027.42/176929) - Paper on the RoboEdu platform for educational robotics
 - [Enhancing Semantic Segmentation wth Depth Information: A Comparison of Network Architectures on the NYUv2 Dataset](https://github.com/fvolcic/NYUv2-Semantic-Segmentation/blob/main/report.pdf) - Paper on the effectiveness of depth information in semantic segmentation tasks
+
+![](https://komarev.com/ghpvc/?username=fvolcic&color=green)

@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Franklin
 
-💼 Currently working at Formant
+💼 Currently working at Formant<br>
 🛠️ Currently building [CourseSwap](https://courseswap.org) and [SPDY](https://buildquickly.io)
 
 ### Things I've Built

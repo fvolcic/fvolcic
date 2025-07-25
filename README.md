@@ -3,6 +3,9 @@
 💼 Currently working at Formant<br>
 🛠️ Currently building [CourseSwap](https://courseswap.org) and [Shape](https://buildquickly.io)
 
+### About Me
+I am a builder at heart. I started building video games on Khan academy when I was a kid, and my passion for creating quickly blew up. Now, I love creating things that are both valuable to people are centered around the human experience. I'm deeply interested in people and love stories. In my free time, I like to mountain bike, travel, play chess, build things, golf, bike pack, and many other things. I am always looking for my next adventure. I have a keen interest in startups and companies that prioritize mission and impact. 
+
 ### Things I've Built
 
 #### Libraries

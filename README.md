@@ -37,5 +37,8 @@ I am a builder at heart. I started building video games on Khan academy when I w
 
 - [RoboEdu: Unlocking the Magic of Robots for Everyone](https://deepblue.lib.umich.edu/handle/2027.42/176929) - Paper on the RoboEdu platform for educational robotics
 - [Enhancing Semantic Segmentation wth Depth Information: A Comparison of Network Architectures on the NYUv2 Dataset](https://github.com/fvolcic/NYUv2-Semantic-Segmentation/blob/main/report.pdf) - Paper on the effectiveness of depth information in semantic segmentation tasks
+- [MATH: A Study of the Mathematical Properties of Billards Tables](https://github.com/user-attachments/files/21603722/annotated-389.20Paper.201.20-.20Billiards.pdf)
+[MATH: Using the Fibonacci Sequence as a Numeric Base](https://github.com/user-attachments/files/21603714/annotated-389_project2-1.pdf)
+
 
 ![](https://komarev.com/ghpvc/?username=fvolcic&color=green)
